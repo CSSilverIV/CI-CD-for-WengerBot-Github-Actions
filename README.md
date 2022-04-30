@@ -1,2 +1,2 @@
-# CI/CD for WngerBot using TeamCity
+# CI/CD for WengerBot using Github Actions
 CI/CD test for Wenger Bot
